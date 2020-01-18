@@ -1,0 +1,15 @@
+{
+  "name": "what-do-you-meme",
+  "version": "1.0.0",
+  "description": "what-do-you-meme",
+  "scripts": {
+    "start:backend": "cd backend; yarn start",
+    "start:frontend": "cd frontend; yarn start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^5.0.2"
+  }
+}
